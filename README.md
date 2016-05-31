@@ -31,7 +31,7 @@ Start the server
 ```
 $ npm start
 ```
-Open http://localhost:3000/ in a browser.
+Open (http://localhost:3000/) in a browser.
 
 ### Testing
 Tests are built and run by committee using karma, mocha, chai, enzyme, jasmine-core, and phantomjs.
